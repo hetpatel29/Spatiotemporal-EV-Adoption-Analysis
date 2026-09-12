@@ -4,7 +4,7 @@ Exploratory and predictive analysis of electric vehicle registrations in Washing
 
 ## Project Files
 
-- `data mining.ipynb` - analysis notebook with tables, visualizations, statistical tests, and machine-learning models.
+- `ev_adoption_analysis.ipynb` - analysis notebook with tables, visualizations, statistical tests, and machine-learning models.
 - `Electric_Vehicle_Population_Data.csv` - vehicle registration dataset used by the notebook.
 
 ## Requirements
@@ -21,7 +21,7 @@ python -m pip install numpy pandas matplotlib scipy scikit-learn jupyter
 ## Run the Analysis
 
 1. Clone the repository.
-2. Open `data mining.ipynb` in Jupyter or VS Code.
+2. Open `ev_adoption_analysis.ipynb` in Jupyter or VS Code.
 3. Select a Python kernel with the required dependencies.
 4. Run all cells from top to bottom.
 
